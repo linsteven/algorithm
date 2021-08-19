@@ -20,4 +20,10 @@
 | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)| 简单 | [Java](https://github.com/linsteven/algorithm/blob/master/src/main/java/Array/MoveZeroes.java) |
 | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)| 简单 | [Java](https://github.com/linsteven/algorithm/blob/master/src/main/java/Array/RemoveDuplicatesFromSortedList.java) |
 
+### Day2 - 「前缀和」技巧
+
+|  题目   | 难度  | 代码  |
+|  ----  | ----  | ---- | 
+| [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)  | 简单 | [Java](https://github.com/linsteven/algorithm/blob/master/src/main/java/Array/SubArraySumEqualsK.java) |
+| [304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)| 简单 | [Java](https://github.com/linsteven/algorithm/blob/master/src/main/java/Array/NumMatrix.java) |
 

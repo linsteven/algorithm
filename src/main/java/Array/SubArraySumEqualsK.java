@@ -6,7 +6,7 @@ package Array;
  * @author yuanlin.yyl
  * @date 2021/08/20
  */
-public class SubarraySumEqualsK {
+public class SubArraySumEqualsK {
 
     /**
      * 时间复杂度 O(n*n)，不够好
