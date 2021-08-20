@@ -27,3 +27,18 @@
 | [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)  | 中等 | [Java](https://github.com/linsteven/algorithm/blob/master/src/main/java/Array/SubArraySumEqualsK.java) |
 | [304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)| 中等 | [Java](https://github.com/linsteven/algorithm/blob/master/src/main/java/Array/NumMatrix.java) |
 
+### Day3 - 差分数组技巧
+
+|  题目   | 难度  | 代码  |
+|  ----  | ----  | ---- | 
+| [1094. 拼车](https://leetcode-cn.com/problems/car-pooling/)  | 中等 | [Java](https://github.com/linsteven/algorithm/blob/master/src/main/java/Array/CarPooling.java) |
+| [1109. 航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/)| 中等 | [Java](https://github.com/linsteven/algorithm/blob/master/src/main/java/Array/CorporateFlightBookings.java) |
+
+
+### DayX -
+
+|  题目   | 难度  | 代码  |
+|  ----  | ----  | ---- | 
+| []()| 中等 | [Java](https://github.com/linsteven/algorithm/blob/master/src/main/java/Array/NumMatrix.java) |
+| []()| 中等 | [Java](https://github.com/linsteven/algorithm/blob/master/src/main/java/Array/NumMatrix.java) |
+
